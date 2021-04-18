@@ -20,7 +20,7 @@ DNA sequencing has propelled genomics into mainstream medicine, driving a revolu
 Genomics investigates how a person's biological information can be used to improve their clinical care and health outcomes (eg through effective diagnosis and personalised treatment.
 Goal of precision or genomic medicine is that instead of a “one size fits all” approach by disease type, medicine will be informed by a genetic understanding of the disease. 
 Precision medicine not only involves studying the genome, but also considers factors like where a person lives, what they do, and what their family health history . 
-The goal is to develop targeted prevention or treatment approaches to help specific individuals stay healthy or get better instead of relying on approaches that are the same for everyone
+Our goal is to develop targeted prevention or treatment approaches with the power of ai algorithms and interactive analyzation low-cost software to help specific individuals stay healthy or get better instead of relying on approaches that are the same for everyone.
 
 ## Genomic Sequence
 99% genome similar,1% differences causes uniqueness.
