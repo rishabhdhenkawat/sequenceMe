@@ -4,6 +4,7 @@ import requests
 from operator import itemgetter
 import sys
 
+
 file_name = 'GivenSequence.fasta'
 
 Summary=open('SNP_Result_Summary.txt','w')
