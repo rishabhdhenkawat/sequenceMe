@@ -6,7 +6,7 @@ A new frontier of medicine in the twenty first century - Genomic Medicine
 
 
 ## SOLUTION DEMO AND EXPLANATION LINK
-https://www.youtube.com/watch?v=ADPmyW-fR2g
+https://youtu.be/E2k1zo0KaEk
 
 ## Problem Statement:
 In current scenario medicines and treatment are same for a particular disease.
