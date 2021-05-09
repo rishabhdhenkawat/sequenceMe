@@ -65,3 +65,10 @@ Cancer is a leading cause of death worldwide, accounting for nearly 10 million d
 Our Cancer Risk Prediction Tool that uses DNA sequencing can play a vital role in this issue.
 Despite of some excellent existing softwares, the healthcare facilities are not avaialable at ground level for everyone. 
 People like us could access personalized reports and predictions using SequenceMe easily, instead of spending thousands of money on appointments.
+
+## Instructions to run
+1. Clone the repo
+2. Open Poweshell
+3. run python  scan_dna.py
+4. Go to Cancer-Risk-Prediction using DNA analysis/codes/
+5. run python generic_risk_prediction.py
